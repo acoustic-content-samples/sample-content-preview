@@ -1,0 +1,24 @@
+{
+  "id": "c2f917c7-553a-4500-9c57-64ae3d77c748",
+  "rev": "2-04c559db381aa46188fc5dc72cdbb404",
+  "name": "Content Preview",
+  "classification": "content-type",
+  "kind": [
+    "embedded",
+    "custom-ui"
+  ],
+  "description": "",
+  "status": "ready",
+  "tags": [],
+  "elements": [
+    {
+      "elementType": "image",
+      "label": "Preview",
+      "key": "preview"
+    }
+  ],
+  "icon": "location",
+  "uiExtensions": {
+    "element": "/dxauth/ui-extension-content-preview/index.html"
+  }
+}
